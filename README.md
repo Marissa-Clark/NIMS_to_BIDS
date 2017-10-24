@@ -20,7 +20,7 @@ NIMS Data Format (e.g)
     |-- NIMS_data
         |-- 20170101_14000
             |-- 1_1_3Plane_Loc_fgre
-                |--15238_1_1.nii.gz
+                |-- 15238_1_1.nii.gz
             |-- 2_1_ASSET_calibration
                 |-- 15238_2_1.nii.gz
             |-- 4_1_BOLD_EPI_29mm_2sec
@@ -28,7 +28,7 @@ NIMS Data Format (e.g)
             |-- 5_1_BOLD_EPI_29mm_2sec
                 |-- 15238_5_1.nii.gz
             |-- 6_1_BOLD_EPI_29mm_2sec
-                |--  15238_6_1.nii.gz
+                |-- 15238_6_1.nii.gz
             |-- 7_1_BOLD_EPI_29mm_2sec
                 |-- 15238_7_1.nii.gz
             |-- 8_1_T1w_9mm_BRAVO
