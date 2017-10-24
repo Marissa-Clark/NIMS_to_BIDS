@@ -19,13 +19,20 @@ NIMS Data Format (e.g)
     |-- BIDS_info.xlsx
     |-- NIMS_data
         |-- 20170101_14000
-            |-- 0001_01_3Plane_Loc_fgre.nii.gz
-            |-- 0003_01_ASSET_calibration.nii.gz
-            |-- 0005_01_BOLD_EPI_29mm_2sec.nii.gz
-            |-- 0006_01_BOLD_EPI_29mm_2sec.nii.gz
-            |-- 0007_01_BOLD_EPI_29mm_2sec.nii.gz
-            |-- 0008_01_BOLD_EPI_29mm_2sec.nii.gz
-            |-- 0009_01_T1w_9mm_BRAVO.nii.gz  
+            |-- 1_1_3Plane_Loc_fgre
+                |--15238_1_1.nii.gz
+            |-- 2_1_ASSET_calibration
+                |-- 15238_2_1.nii.gz
+            |-- 4_1_BOLD_EPI_29mm_2sec
+                |-- 15238_4_1.nii.gz
+            |-- 5_1_BOLD_EPI_29mm_2sec
+                |-- 15238_5_1.nii.gz
+            |-- 6_1_BOLD_EPI_29mm_2sec
+                |--  15238_6_1.nii.gz
+            |-- 7_1_BOLD_EPI_29mm_2sec
+                |-- 15238_7_1.nii.gz
+            |-- 8_1_T1w_9mm_BRAVO
+                |-- 15238_8_1.nii.gz
 
 BIDS Data Format (e.g) http://bids.neuroimaging.io/
 
